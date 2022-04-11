@@ -45,5 +45,5 @@
 <a href="https://github.com/bhaskar-maahi/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bhaskar-maahi">
 </a>
-<a href="https://github.com/Bhaskarbora02?tab=followers"><img src="https://img.shields.io/github/followers/Bhaskarbora02?label=Followers&style=social" alt="GitHub Badge"></a>
+#<a href="https://github.com/Bhaskarbora02?tab=followers"><img src="https://img.shields.io/github/followers/Bhaskarbora02?label=Followers&style=social" alt="GitHub Badge"></a>
 
